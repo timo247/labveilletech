@@ -6,6 +6,9 @@ draft: false
 
 #Tendance de consommation en ligne des Gen-Z
 
+**Accès**
+https://www.netcommsuisse.ch/insights/How-next-generations-will-shape-the-future-of-SMBs-.html
+
 **Description**
 Cet article de l'observatoire Suisse présente des prévisions basées sur des observations menées sur différentes sources de données, sur les tendances de consommation des générations Gen-Z et milléniales , représentant de façon croissante la plus grande part des consommateurs de commerce en ligne.
 
@@ -21,6 +24,3 @@ L'article m'a permis d'apprendre les éléments suivants:
 - 6 Gen-Z sur 10 découvre de nouveaux produits à consommer via les réseaux sociaux.
 
 Cet article est utile dans la mesure où il fournit de nombreux éléments à exploiter pour développer ou optimiser des sites de commerce en ligne pour le segment des Gen-Z.
-
-**Accès**
-https://www.netcommsuisse.ch/insights/How-next-generations-will-shape-the-future-of-SMBs-.html
