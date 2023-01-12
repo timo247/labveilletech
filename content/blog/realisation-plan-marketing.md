@@ -7,7 +7,7 @@ draft: false
 # Guide de réalisation de plan marketing
 
 **Description**
-Hubspot propose dans cet article une recette détaillée étape par étape pour réaliser un plan marketing. Le plan détaillé commence par une analyse de la situation, est suivi par une succession de définitions du projet, du produit, d'objectifs et de canneaux et se termine par la définition d'objectifs.
+Hubspot propose dans cet article une recette détaillée étape par étape pour réaliser un plan marketing. Le plan détaillé commence par une analyse de la situation, est suivi par une succession de définitions du projet, du produit, d'objectifs et de canaux et se termine par la définition d'objectifs.
 
 L'article est utilisable comme référence étape par étape pour créer une stratégie marketing, globale ou digitale, dans un contexte professionnel.
 

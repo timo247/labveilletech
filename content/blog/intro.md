@@ -8,7 +8,7 @@ draft: false
 
 ## À propos
 
-Un système a été mis en place pour me permettre d'être à jour sur les nouveautés et bonnes pratiques relatives au e-commerce et au marketing digital. Il consiste principalement en une liste de ressources web à consulter régulièrement et à des abonnements sur Linkedin. Chacune des resource fait l'objet d'une section présentant pourquoi l'avoir choisie, ce qu'elle publie et comment elle est suivie.
+Un système a été mis en place pour me permettre d'être à jour sur les nouveautés et bonnes pratiques relatives aux e-commerces et au marketing digital. Il consiste principalement en une liste de ressources web à consulter régulièrement et à des abonnements sur Linkedin. Chacune des resource fait l'objet d'une section présentant pourquoi l'avoir choisie, ce qu'elle publie et comment elle est suivie.
 
 ### Blog Shopify
 
@@ -47,8 +47,8 @@ La resource est utile pour obtenir des insights sur la réalité du terrain pour
 ### Netcomm Suisse
 
 **Description**
-Netcomm Suisse fournit des articles et rapport sur des données liées aux données de commerce en ligne, en plus de promouvoir certains évènements du domaine.
-Leurs publications sont rares, donc l'écoute consiste principalement à regarder de temps en temps si de nouvelles publications ont été faies.
+Netcomm Suisse fournit des articles et rapports sur des données liées aux données de commerce en ligne, en plus de promouvoir certains évènements du domaine.
+Leurs publications sont rares, donc l'écoute consiste principalement à regarder de temps en temps si de nouvelles publications ont été faites.
 Les contenus proposés sont utiles au développement stratégique de sites de commerce en ligne.
 
 **Accès**
@@ -69,7 +69,7 @@ https://www.forrester.com/blogs/
 **Description**
 Ce forum contient des publications et échanges concernant l’acquisition et la conversion de clients, le scrapping et l’exploitation de data par des professionnels et amateurs du domaine, échangeant dans un format du type stack-overflow.
 Une consultation des nouveaux topics 2 fois quinze minutes par semaine et répertoriage des technologies intéressantes mentionnées dans un fichier stocké sur le drive, en vue d’une potentielle utilisation ultérieure si la situation l’impose.
-La resource est intéressante pour découvrir des méthodes de travail de professionnels de l’acquisition en ligne (les topics illustrent la façon dont ils abordent les problèmes) et des nouvelles méthodes et technologies (les réponses fournissent des clés sur des technologies intéressantes et des solutions aux problèmes mentionnés).
+La resource est intéressante pour découvrir des méthodes de travail de professionnel de l’acquisition en ligne (les topics illustrent la façon dont ils abordent les problèmes) et des nouvelles méthodes et technologies (les réponses fournissent des clés sur des technologies intéressantes et des solutions aux problèmes mentionnés).
 
 **Accès**
 https://www.growthhacking.fr/
