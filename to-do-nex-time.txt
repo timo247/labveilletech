@@ -1,0 +1,1 @@
+Commiter le thème et commiter les assets qui sont générés par le thème

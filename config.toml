@@ -51,12 +51,6 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
@@ -65,14 +59,8 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/pages/about"
     weight = 3
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
 
   # Footer Menu
   [[menu.footer]]

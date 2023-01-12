@@ -1,5 +1,5 @@
 ---
-title: 'Intro'
+title: "Système d'écoute"
 date: 2022-12-12T11:12:13+01:00
 draft: false
 ---
@@ -34,7 +34,7 @@ La resource est utile pour améliorer les performances des sites et pages web cr
 **Accès**
 https://blog.hubspot.com/marketing?hubs_post-cta=blognavcard-marketing
 
-### E-commerce mag:
+### E-commerce mag
 
 **Description**
 
@@ -54,7 +54,7 @@ Les contenus proposés sont utiles au développement stratégique de sites de co
 **Accès**
 https://www.netcommsuisse.ch/insights/
 
-### Forrester Blog:
+### Forrester Blog
 
 **Description**
 Ce blog contient des articles et rapports spécialisés sur des prévisions et données courantes de consommation en ligne.

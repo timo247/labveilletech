@@ -1,10 +1,8 @@
 ---
-title: 'About'
+title: 'À propos'
 date: 2022-12-12T12:20:10+01:00
 draft: false
 ---
-
-# À propos
 
 ### Domaine
 
@@ -21,4 +19,4 @@ En effet, je suis naturellement doué (et passionné) par la communication, tant
 
 ## Image du Ikigai
 
-![Image de l'ikigai](resources/_gen/images/ikigai.png "Image de l'Ikigai")
+![Image de l'ikigai](../../../resources/_gen/images/ikigai.png "Image de l'Ikigai")
