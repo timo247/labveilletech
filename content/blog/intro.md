@@ -1,5 +1,5 @@
 ---
-title: 'Intro'
+title: 'Système d'écoute'
 date: 2022-12-12T11:12:13+01:00
 draft: false
 ---
@@ -44,6 +44,16 @@ La resource est utile pour obtenir des insights sur la réalité du terrain pour
 
 **Accès**
 
+### Netcomm Suisse
+
+**Description**
+Netcomm Suisse fournit des articles et rapport sur des données liées aux données de commerce en ligne, en plus de promouvoir certains évènements du domaine.
+Leurs publications sont rares, donc l'écoute consiste principalement à regarder de temps en temps si de nouvelles publications ont été faies.
+Les contenus proposés sont utiles au développement stratégique de sites de commerce en ligne.
+
+**Accès**
+https://www.netcommsuisse.ch/insights/
+
 ### Forrester Blog:
 
 **Description**
@@ -54,7 +64,7 @@ La resource est utile pour développer des idées de produits à vendre en ligne
 **Accès**
 https://www.forrester.com/blogs/
 
-### Growth-Hacking.fr
+### Growth-Hacking FR
 
 **Description**
 Ce forum contient des publications et échanges concernant l’acquisition et la conversion de clients, le scrapping et l’exploitation de data par des professionnels et amateurs du domaine, échangeant dans un format du type stack-overflow.
