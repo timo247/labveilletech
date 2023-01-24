@@ -19,4 +19,4 @@ En effet, je suis naturellement doué (et passionné) par la communication, tant
 
 ## Image du Ikigai
 
-![Image de l'ikigai](/images/ikigai.png "Image de l'Ikigai")
+![Image de l'ikigai](/labveilletech/images/ikigai.png "Image de l'Ikigai")

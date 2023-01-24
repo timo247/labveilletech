@@ -4,7 +4,7 @@ date: 2023-01-12T10:53:09+01:00
 draft: false
 ---
 
-#L'évolution des métiers du retails
+# L'évolution des métiers du retails
 
 **Accès**
 https://www.ecommercemag.fr/Thematique/profils-metiers-1228/Breves/Recrutement-retail-Comment-s-adapter-aux-evolutions-metiers--377608.htm

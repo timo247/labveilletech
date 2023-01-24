@@ -4,7 +4,7 @@ date: 2023-01-12T10:59:54+01:00
 draft: false
 ---
 
-#Tendance de consommation en ligne des Gen-Z
+# Tendance de consommation en ligne des Gen-Z
 
 **Accès**
 https://www.netcommsuisse.ch/insights/How-next-generations-will-shape-the-future-of-SMBs-.html
