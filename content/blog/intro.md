@@ -2,6 +2,7 @@
 title: "Système d'écoute"
 date: 2022-12-12T11:12:13+01:00
 draft: false
+image: '/labveilletech/images/systeme.png'
 ---
 
 # Système d'écoute

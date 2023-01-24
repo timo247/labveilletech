@@ -2,6 +2,7 @@
 title: 'Outils de benchmarking'
 date: 2023-01-12T10:42:08+01:00
 draft: false
+image: '/labveilletech/images/benchmark.png'
 ---
 
 # Outils utils au Benchmarking

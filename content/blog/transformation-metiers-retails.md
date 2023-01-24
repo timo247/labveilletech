@@ -2,6 +2,7 @@
 title: 'Transformation des métiers du commerce de détail'
 date: 2023-01-12T10:53:09+01:00
 draft: false
+image: '/labveilletech/images/retail.png'
 ---
 
 # L'évolution des métiers du retails

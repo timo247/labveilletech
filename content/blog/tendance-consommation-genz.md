@@ -2,6 +2,7 @@
 title: 'Tendance de consommation des Gen-Z'
 date: 2023-01-12T10:59:54+01:00
 draft: false
+image: '/labveilletech/images/consommation.png'
 ---
 
 # Tendance de consommation en ligne des Gen-Z

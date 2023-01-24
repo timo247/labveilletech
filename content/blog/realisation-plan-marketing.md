@@ -2,6 +2,7 @@
 title: 'Réalisation de plans marketing'
 date: 2023-01-12T10:49:39+01:00
 draft: false
+image: '/labveilletech/images/marketing.png'
 ---
 
 # Guide de réalisation de plan marketing

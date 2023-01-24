@@ -24,7 +24,7 @@ publishDir = "docs"
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    main = "/labveilletech/images/logo.png"
     alt = "Tella Logo"
 
     # The size parameter is the class name of tailwindcss

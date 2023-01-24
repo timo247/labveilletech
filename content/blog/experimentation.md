@@ -2,6 +2,7 @@
 title: 'Experimentation'
 date: 2023-01-24T09:16:50+01:00
 draft: false
+image: '/labveilletech/images/experimentation.png'
 ---
 
 # Démarche
