@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lab Veille Tech</title>
+    <link>https://timo247.github.io/labveilletech/blog/</link>
+    <description>Recent content in Posts on Lab Veille Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Jan 2023 09:16:50 +0100</lastBuildDate><atom:link href="https://timo247.github.io/labveilletech/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimentation</title>
+      <link>https://timo247.github.io/labveilletech/blog/experimentation/</link>
+      <pubDate>Tue, 24 Jan 2023 09:16:50 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/experimentation/</guid>
+      <description>Démarche Une expérimentation a été effectuée avec l&amp;rsquo;API de recherche de concurrents The compagnies api, découvert lors de la lecture d&amp;rsquo;un thread sur Growthhacking.fr. L&amp;rsquo;outil a été testé pour identifier des sites concurrents du site laboicc.ch.
+L&amp;rsquo;outil permet d&amp;rsquo;identifier des compagnies, filtrée selon de nombreux paramètres, comme le domaine, le revenu et le lieu. Les listes resorties comportent de façon synthétiques des informations clés et pertinent, dont notamment des tags combinés sur leurs domaines d&amp;rsquo;activités.</description>
+    </item>
+    
+    <item>
+      <title>Tendance de consommation des Gen-Z</title>
+      <link>https://timo247.github.io/labveilletech/blog/tendance-consommation-genz/</link>
+      <pubDate>Thu, 12 Jan 2023 10:59:54 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/tendance-consommation-genz/</guid>
+      <description>#Tendance de consommation en ligne des Gen-Z
+Accès https://www.netcommsuisse.ch/insights/How-next-generations-will-shape-the-future-of-SMBs-.html
+Description Cet article de l&amp;rsquo;observatoire Suisse présente des prévisions basées sur des observations menées sur différentes sources de données, sur les tendances de consommation des générations Gen-Z et milléniales , représentant de façon croissante la plus grande part des consommateurs de commerce en ligne.
+L&amp;rsquo;article m&amp;rsquo;a permis d&amp;rsquo;apprendre les éléments suivants:
+Les milléniales sont 3 fois plus entreprenants que les baby boomers à leur époque.</description>
+    </item>
+    
+    <item>
+      <title>Transformation des métiers du commerce de détail</title>
+      <link>https://timo247.github.io/labveilletech/blog/transformation-metiers-retails/</link>
+      <pubDate>Thu, 12 Jan 2023 10:53:09 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/transformation-metiers-retails/</guid>
+      <description>#L&amp;rsquo;évolution des métiers du retails
+Accès https://www.ecommercemag.fr/Thematique/profils-metiers-1228/Breves/Recrutement-retail-Comment-s-adapter-aux-evolutions-metiers--377608.htm
+Description Cet article de E-commerce mag interviewe une actrice spécialisée du domaine du commerce de détail en France. Son intervention explique que les métiers du retail vont connaître une forte demande de talents en matière de digital dans les prochaines années. Les profils recherchés pour les équipes marketing concerneront notamment de façon plus prononcée des compétences en technologie.
+Cet article m&amp;rsquo;a appris que le fait de disposer de compétences multidisciplinaires dans les domaines de l&amp;rsquo;intégration web et de la technologie et du marketing peut constituer un atout, et qu&amp;rsquo;ainsi il demeure possible de tirer avantage de cette dimension des compétences acquises dans la formation.</description>
+    </item>
+    
+    <item>
+      <title>Réalisation de plans marketing</title>
+      <link>https://timo247.github.io/labveilletech/blog/realisation-plan-marketing/</link>
+      <pubDate>Thu, 12 Jan 2023 10:49:39 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/realisation-plan-marketing/</guid>
+      <description>Guide de réalisation de plan marketing Accès https://blog.hubspot.com/marketing/marketing-plan-template-generator
+Description Hubspot propose dans cet article une recette détaillée étape par étape pour réaliser un plan marketing. Le plan détaillé commence par une analyse de la situation, est suivi par une succession de définitions du projet, du produit, d&amp;rsquo;objectifs et de canaux et se termine par la définition d&amp;rsquo;objectifs.
+L&amp;rsquo;article est utilisable comme référence étape par étape pour créer une stratégie marketing, globale ou digitale, dans un contexte professionnel.</description>
+    </item>
+    
+    <item>
+      <title>Outils de benchmarking</title>
+      <link>https://timo247.github.io/labveilletech/blog/outils-benchmarking/</link>
+      <pubDate>Thu, 12 Jan 2023 10:42:08 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/outils-benchmarking/</guid>
+      <description>Outils utils au Benchmarking Accès https://www.growthhacking.fr/t/liste-de-sites-e-commerce/28569/3
+Description La consultation d&amp;rsquo;une publication sur une recherche de sites de commerce ligne spécialisés a permis de découvrir 2 outils utiles au benchmarking. Il s&amp;rsquo;agit d&amp;rsquo;un topic où un utilisateur demande à la communauté comment il peut obtenir une liste de commerces en lignes spécialisés.
+Les réponses fournies dans le feed de la publication m&amp;rsquo;ont à ce sujet permis de découvrir deux outils fort utiles.</description>
+    </item>
+    
+    <item>
+      <title>Système d&#39;écoute</title>
+      <link>https://timo247.github.io/labveilletech/blog/intro/</link>
+      <pubDate>Mon, 12 Dec 2022 11:12:13 +0100</pubDate>
+      
+      <guid>https://timo247.github.io/labveilletech/blog/intro/</guid>
+      <description>Système d&amp;rsquo;écoute À propos Un système a été mis en place pour me permettre d&amp;rsquo;être à jour sur les nouveautés et bonnes pratiques relatives aux e-commerces et au marketing digital. Il consiste principalement en une liste de ressources web à consulter régulièrement et à des abonnements sur Linkedin. Chacune des resource fait l&amp;rsquo;objet d&amp;rsquo;une section présentant pourquoi l&amp;rsquo;avoir choisie, ce qu&amp;rsquo;elle publie et comment elle est suivie.
+Blog Shopify Accès: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

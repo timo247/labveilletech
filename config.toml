@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://timo247.github.io/labveilletech"
 title = "Lab Veille Tech"
 author = "timo247"
 languageCode = "en"
@@ -6,6 +6,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
+publishDir = "docs"
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = false
